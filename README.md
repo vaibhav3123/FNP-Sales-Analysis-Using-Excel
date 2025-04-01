@@ -57,7 +57,7 @@ The dashboard was built using **Excel, Pivot Tables, Data Cleaning, Transformati
 - Created **interactive visualizations** to track revenue, product sales, and seasonal trends.
 - 
 
-## 📬 Contact:
+## 📬 6. Contact:
 If you have any questions or feedback, feel free to reach out:
 
 🔗 GitHub: https://github.com/vaibhav3123
