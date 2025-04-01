@@ -55,7 +55,6 @@ The dashboard was built using **Excel, Pivot Tables, Data Cleaning, Transformati
 ### 📊 Data Visualization & Dashboard Building  
 - Used **Pivot Tables & Charts** to dynamically summarize data.  
 - Created **interactive visualizations** to track revenue, product sales, and seasonal trends.
-- 
 
 ## 📬 6. Contact:
 If you have any questions or feedback, feel free to reach out:
