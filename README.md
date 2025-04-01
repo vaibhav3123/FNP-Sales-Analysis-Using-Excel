@@ -1,7 +1,7 @@
 # 📊 Sales Analysis Dashboard  
 
 ## 📌 1. Overview  
-This **Sales Analysis Dashboard** provides a detailed breakdown of 📈 sales trends, 🛋️ customer behavior, and 💰 revenue distribution. By integrating **Products, Orders, and Customers** data, this project enables data-driven decision-making to optimize business performance.  
+This **Sales Analysis Dashboard** provides a detailed breakdown of sales trends, customer behavior, and revenue distribution. By integrating **Products, Orders, and Customers** data, this project enables data-driven decision-making to optimize business performance.  
 
 The dashboard was built using **Excel, Pivot Tables, Data Cleaning, Transformation, and Data Modeling** to analyze key metrics, identify top-selling products, and track seasonal trends.  
 
